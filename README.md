@@ -95,8 +95,6 @@ Title and description cannot be the same
 Khushi Gupta
 
 
-<p align="center">
-  Built with ❤️ using <strong>Django REST Framework</strong>
-</p>
-```
+  Built with ❤️ using Django REST Framework
+
 
