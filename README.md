@@ -98,5 +98,5 @@ Khushi Gupta
 <p align="center">
   Built with ❤️ using <strong>Django REST Framework</strong>
 </p>
-
+```
 
